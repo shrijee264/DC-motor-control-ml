@@ -1,0 +1,4 @@
+Controller,Final Speed (RPM),Final Error (RPM),Overshoot (%),MAE (RPM),IAE (RPM.s),Peak Voltage (V),Pre-Disturbance Mean (RPM),Pre-Disturbance Std (RPM),Max Disturbance Deviation (RPM),Recovery Time (s),Post-Disturbance IAE (RPM.s)
+P,399.61,600.39,0.0,622.16,7465.95,8.0,409.71,0.04,10.71,,3599.36
+PI,1005.47,5.47,1.86,109.82,1317.82,12.0,992.48,5.69,17.44,0.0,40.38
+PID,1005.44,5.44,1.87,109.82,1317.87,12.0,992.65,5.73,17.29,0.0,40.46
